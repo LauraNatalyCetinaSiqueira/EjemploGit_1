@@ -6,4 +6,16 @@ public class Git {
 	
 	int sumar = num1 + num2;
 	
+	
+	public void sumar() {
+		
+		if(sumar < 12 ) {
+			
+			System.out.println("La suma es pequeña");
+		}
+		
+	}
+	
 }
+	
+

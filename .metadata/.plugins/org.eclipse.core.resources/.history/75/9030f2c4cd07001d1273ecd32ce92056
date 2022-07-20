@@ -1,0 +1,10 @@
+
+public class Git {
+	
+	int suma; 
+	int num1 = 4;
+	int num2 = 6;
+	
+	suma = num1 + num2;
+	
+}

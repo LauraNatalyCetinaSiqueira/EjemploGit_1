@@ -1,0 +1,11 @@
+
+public interface IGit {
+	
+	
+	public boolean persona = true;
+	
+	if(persona == true) {
+		System.out.println("Esto es una persona");
+	}
+
+}
